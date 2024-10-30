@@ -1,0 +1,197 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ @import "tooltips";
+ @import "buttons";
+
+.mobilizon-mirror-settings-wrapper {
+   form {
+      width: 100%;
+
+   }
+   .alert {
+      background-color: #ffd29c;
+      border-color: #dc943c;
+      font-size: 1.2rem;
+      box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1);
+      margin: 24px 0 0 0;
+   }
+   .alert:hover {
+      background-color: #ffd29c;
+   }
+   fieldset {
+      width:100%;
+   }
+
+   legend {
+      margin:0;
+      padding: 0;
+
+   }
+  .components-base-control__wrapper {
+     width:100%;
+     display: flex;
+     margin: -10px;
+     flex-wrap: wrap;
+  }
+
+   #mobilizon-mirror-logo {
+      aspect-ratio: 7/1;
+      background-image: url(../images/mobilizon-mirror-logo.svg);
+      width: 320px;
+      background-size: cover;
+   }
+
+   label {
+     display: blocK;
+     margin-bottom: 8px;
+     font-size: 15px;
+     cursor: default;
+     span.btn.label-info-button.tooltip {
+         margin-left: 5px;
+         padding: 0 7px;
+         border-style: solid;
+         border-width: 1px;
+         border-radius: 50%;
+         color: #04007d;
+         background-color: #fffab3;
+     }
+   }
+
+   .components-base-control__field {
+      margin: 10px;
+      max-width: 100%;
+   }
+
+   input.textfield {
+     width: 85%;
+     font-size: 16px;
+     padding: 10px;
+     height: 35px;
+     outline: 0;
+     font-family: inherit;
+     resize: vertical;
+     border: 0px solid #0a0b0e;
+     border-radius: 4px;
+   }
+
+  .image img.is-rounded {
+     border-radius: 9998px;
+  }
+
+  .image img {
+     display: block;
+     height: auto;
+     width: 100%;
+  }
+
+  .input-valid {
+     border-color: #41b922!important;
+     box-shadow: 0 0 0 1px #41b922!important;
+     background-color: #eeffea!important;
+  }
+
+  .input-warning {
+     border-color: red!important;
+     box-shadow: 0 0 0 1px red!important;
+     background-color: rgb(255, 220, 220);
+  }
+
+  .input-disabled {
+     cursor: not-allowed!important;
+     background-color: #eee!important;
+     color: #eee!important;
+     border: 1px solid #ccc!important;
+  }
+
+
+  .form-control-feedback {
+     position: absolute;
+     right: 0;
+     z-index: 2;
+     line-height: 34px;
+     text-align: center;
+     pointer-events: none;
+     font-size: 25px;
+     translate: -50px;
+  }
+
+
+  .mobilizon-remove-group {
+     margin: 0 5px;
+  }
+
+  .mobilizon-add-group {
+     margin: 0 5px;
+  }
+
+  .icon-warning {
+     color: red;
+  }
+  .icon-warning::before {
+     content: "\26A0";
+  }
+
+  .icon-valid {
+     color: #41b922;
+  }
+  .icon-valid::before {
+     content: "\2713";
+  }
+
+
+  .input-wrapper {
+     position: relative;
+     width: 300px;
+  }
+
+  .mobilizon-group-item {
+     margin-bottom: 10px;
+  }
+
+  .mobilizon-group-item:only-child > .mobilizon-remove-group {
+      display: none!important;
+  }
+
+   margin-top: 20px;
+   legend > h2 {
+      font-size: 30px;
+      margin: 35px 0 23px 0;
+   }
+   label > h3 {
+      margin: 10px 0 5px 0;
+   }
+   .radio-input-wrapper {
+      label {
+         display: inline;
+      }
+   }
+   form p.submit input#submit {
+      font-size: 1.3rem;
+   }
+
+}
+
+
+.mobilizon-mirror-faq-wrapper {
+   margin-top: 1rem;
+   width: 700px;
+   max-width: 100%;
+   #mobilizon-mirror-logo {
+      aspect-ratio: 7/1;
+      background-image: url(../images/mobilizon-mirror-logo.svg);
+      width: 320px;
+      max-width: 100%;
+      background-size: cover;
+   }
+   h1 {
+      margin-top: 1.5rem;
+      margin-bottom: 2rem;
+   }
+   h2 {
+      margin-top:1.5rem;
+      margin-bottom: 0.5rem;
+   }
+}

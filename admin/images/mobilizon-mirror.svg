@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="mobilizon-logo"
+   viewBox="0 0 54.999999 55.000001"
+   version="1.1"
+   sodipodi:docname="mobilizon-mirror.svg"
+   width="55"
+   height="55"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs81" />
+  <sodipodi:namedview
+     id="namedview79"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.0337015"
+     inkscape:cx="23.774844"
+     inkscape:cy="27.695826"
+     inkscape:window-width="1536"
+     inkscape:window-height="795"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g74"
+     units="in" />
+  <g
+     data-name="Calque 2"
+     id="g76">
+    <g
+       data-name="header"
+       id="g74">
+      <path
+         fill="#474467"
+         d="m 41.065418,31.131647 c 0,4.964122 -1.349866,8.780291 -4.049594,11.448507 -4.901607,4.244817 -12.266391,4.244817 -17.167997,0 -2.699729,-2.643395 -4.049594,-6.459564 -4.049594,-11.448507 0,-4.988941 1.349865,-8.808213 4.049594,-11.457814 4.901606,-4.244816 12.26639,-4.244816 17.167997,0 2.699728,2.649601 4.049594,6.468873 4.049594,11.457814 z M 28.431825,21.749458 c -3.593301,0 -5.389952,3.127397 -5.389952,9.382189 0,6.254795 1.796651,9.382191 5.389952,9.382191 3.593301,0 5.389952,-3.127396 5.389952,-9.382191 0,-6.254792 -1.796651,-9.382189 -5.389952,-9.382189 z"
+         id="path70"
+         sodipodi:nodetypes="sccsccssssss"
+         style="stroke-width:0.940639" />
+      <path
+         fill="#ffd599"
+         d="m 25.108547,12.435785 c -0.387506,-0.881463 -0.581819,-1.832729 -0.570365,-2.792319 -0.01135,-0.959589 0.182859,-1.9108539 0.570365,-2.7923172 1.141197,-0.5550058 2.405355,-0.8236712 3.678857,-0.7818501 1.220173,-0.057272 2.433122,0.2130863 3.507747,0.7818501 0.387507,0.8814633 0.58182,1.8327282 0.570366,2.7923172 0.0115,0.95959 -0.182859,1.910856 -0.570366,2.792319 -1.131957,0.58037 -2.403025,0.850505 -3.678856,0.781849 -1.222616,0.08637 -2.443788,-0.185819 -3.507748,-0.781849 z"
+         id="path72"
+         sodipodi:nodetypes="ccccccccc"
+         style="stroke-width:0.940639" />
+    </g>
+  </g>
+</svg>
